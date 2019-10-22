@@ -1,0 +1,11 @@
+C:\Users\Sujit.Kadam\Downloads\daemon\bin\Debug\netcoreapp2.1\daemon.deps.json
+C:\Users\Sujit.Kadam\Downloads\daemon\bin\Debug\netcoreapp2.1\daemon.runtimeconfig.json
+C:\Users\Sujit.Kadam\Downloads\daemon\bin\Debug\netcoreapp2.1\daemon.runtimeconfig.dev.json
+C:\Users\Sujit.Kadam\Downloads\daemon\bin\Debug\netcoreapp2.1\daemon.dll
+C:\Users\Sujit.Kadam\Downloads\daemon\bin\Debug\netcoreapp2.1\daemon.pdb
+C:\Users\Sujit.Kadam\Downloads\daemon\obj\Debug\netcoreapp2.1\daemon.csproj.CoreCompileInputs.cache
+C:\Users\Sujit.Kadam\Downloads\daemon\obj\Debug\netcoreapp2.1\daemon.AssemblyInfoInputs.cache
+C:\Users\Sujit.Kadam\Downloads\daemon\obj\Debug\netcoreapp2.1\daemon.AssemblyInfo.cs
+C:\Users\Sujit.Kadam\Downloads\daemon\obj\Debug\netcoreapp2.1\daemon.dll
+C:\Users\Sujit.Kadam\Downloads\daemon\obj\Debug\netcoreapp2.1\daemon.pdb
+C:\Users\Sujit.Kadam\Downloads\daemon\obj\Debug\netcoreapp2.1\daemon.csprojAssemblyReference.cache
